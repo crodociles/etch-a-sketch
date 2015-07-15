@@ -1,0 +1,18 @@
+ body{
+	background-color: #6c6c6c;
+}
+
+.wrapper{
+	width: 900px;
+	background-color: white;
+	margin: auto;
+	text-align: center;
+}
+
+.grid_square{
+	background-color: black;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	margin: -4px 0 0 0;
+}
